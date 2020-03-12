@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - GridBag",
+            "request": "launch",
+            "mainClass": "GridBag"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Gui",
             "request": "launch",
             "mainClass": "Gui"
